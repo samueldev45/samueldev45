@@ -13,9 +13,3 @@
 </p>
 
 <br>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samueldev45&show_icons=true&locale=en&layout=compact" alt="samueldev45"/></p>
-<br>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samueldev45&label=Profile%20views&color=0e75b6&style=flat" alt="samueldev45"/></p>
